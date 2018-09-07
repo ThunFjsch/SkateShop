@@ -1,0 +1,25 @@
+/*This CSS is only used in Index yet*/
+main{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    background-color: #557F79;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+main h1, h2{
+    margin: 0;
+    padding: 5px;
+}
+main h1{
+    margin-left: 5%;
+}
+main h2{
+    margin-left: 7%;
+}
+main p{
+    text-align: left;
+    margin-left: 20%;
+}

@@ -1,0 +1,12 @@
+FRONTEND
+    HEADER:
+        Kleinere Bilder
+        besserer Home Bereich
+
+BACKEND
+    LOGIN:
+        Login Function
+    FEATURES
+        BACKEND
+
+

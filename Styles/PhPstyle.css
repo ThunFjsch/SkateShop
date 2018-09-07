@@ -1,0 +1,43 @@
+body{
+	background-color: grey;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+p{
+	background-color: darkgreen;
+	margin: 0;
+	width: 30%;
+	margin-left: 35%;
+	padding: 15px;
+	text-align: center;
+	font-size: 24px;
+}
+header{
+	background-color: darkgreen;
+	padding: 15px;
+	width: 90%;
+	margin-top: 2.5%;
+	margin-left: 5%;
+	border-radius: 15px;
+}
+header h1{
+	margin-left: 10%;
+	color: white;
+	font-size: 36px;
+}
+form{
+	width: 30%;
+	margin-left: 35%;
+	background-color: darkgreen;
+	padding: 15px;
+	margin-top: 2.5%;
+	border-radius: 15px;
+}
+form p{
+	margin: 1%;
+	padding: 0;
+	text-align: left;
+	font-size: 16px;
+	border-radius: 5px;
+}

@@ -1,0 +1,23 @@
+.tableContent{
+    background-color: #2F7F72;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+}
+.phpTable{
+    background-color: #5DFFE5;
+    border: 1px solid #4BCCB7;
+    border-radius: 5px;
+    padding: 0;
+}
+.phpTable table,tr,th,td{
+    padding: 5px;
+    background-color: #557F79;
+    border: 1px solid #4BCCB7;
+}
+.phpTable th,td{
+    width: 5%;
+}
